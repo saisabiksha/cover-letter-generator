@@ -1,0 +1,17 @@
+{
+  "candidate_profile": {
+    "Full Name": "Sai Sabiksha",
+    "Email": "sai@example.com",
+    "Phone Number": "9876543210",
+    "Education": "B.Tech Artificial Intelligence and Data Science",
+    "Skills": "Python, SQL, Machine Learning, Pandas, Git",
+    "Projects": "AI Learning Roadmap Generator",
+    "Experience": "Python development internship",
+    "Achievements": "Hackathon participation and project development"
+  },
+  "job_data": {
+    "Job Title": "Python Developer",
+    "Company Name": "Data Alcott Systems",
+    "Job Description": "We are looking for a Python Developer with knowledge of Python, SQL, Machine Learning, Pandas and Git. The candidate should have good problem-solving skills, communication skills and interest in software development."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "styles": [
+    {
+      "name": "Standard",
+      "tone": "Simple, clear, formal, beginner-friendly"
+    },
+    {
+      "name": "Professional",
+      "tone": "Polished, corporate, confident, formal"
+    },
+    {
+      "name": "Creative",
+      "tone": "Engaging, professional, expressive, modern"
+    }
+  ]
+}
